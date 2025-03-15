@@ -1,5 +1,4 @@
 # Lagrange-point
-# README
 
 ## Lagrange Point Stability and Perturbed Trajectories
 
