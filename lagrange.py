@@ -1,16 +1,3 @@
-#sing a simulation of a movement of a small body in gravitational fields of Earth and Moon show that the
-#Lagrange point (the 4th
-# or 5th
-# one) indeed is located in its theoretical position (in the third vertex of equilateral
-#triangle, with other two vertices occupied by mass centers of Earth and Moon). It’s necessary to find
-#trajectories (mind the plural) of a small body, initially at rest in the Lagrange point that was given some small
-#initial velocities in diverse directions. The data concerning masses of Earth and Moon, distances, revolution
-#period may be taken from physical tables. It’s worth considering the substitution of units (in fact it is
-#necessary).
-
-#Aleksandra Lewandowska 242246
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import solve_ivp
